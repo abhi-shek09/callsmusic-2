@@ -37,10 +37,10 @@ The commands I currently support are:
             [
                 [
                     InlineKeyboardButton(
-                        'Group', url='https://t.me/callsmusicchat',
+                        'Group', url='https://t.me/camila_support',
                     ),
                     InlineKeyboardButton(
-                        'Channel', url='https://t.me/callsmusic',
+                        'Channel', url='https://t.me/camila_support',
                     ),
                 ],
             ],
